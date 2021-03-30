@@ -1,6 +1,6 @@
 # Paper-study
 
-Singku Lab 논문 스터디를 위한 저장소입니다.
+Singku Lab Weekly 논문 스터디 기록입니다.
 
 ## 2021-02-26
 link : https://drive.google.com/drive/folders/1IIoRuscQnFJTUrdLmwNsEhcWnk0aVhTY?usp=sharing
