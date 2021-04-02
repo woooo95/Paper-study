@@ -64,3 +64,23 @@ link : https://drive.google.com/drive/folders/1biqnML2tN3yfItoTofwSlEjtYNv4_jHU?
 * 김세현
 
   End-to-End Object Detection with Transformers
+  
+  
+## 2021-04-02
+link : https://drive.google.com/drive/folders/1KDP2mJz7NF6MTGtbni11PNA519YXh19i?usp=sharing
+* 김선우
+
+  A Style-Based Generator Architecture for Generative Adversarial Networks
+  
+* 변승환
+
+  Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+  
+* 이유나
+
+  Training Generative Adversarial Networks with Limited Data
+  
+* 김세현
+
+ TransTrack: Multiple-Object Tracking with Transformer
+
